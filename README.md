@@ -1,4 +1,4 @@
-Databases for Mechanical Properties of Steel Fiber Reinforced Concrete and Recycled Brick Aggregate Concrete
+Databases for Mechanical Properties of Steel Fiber Reinforced Concrete and Recycled Aggregate Concrete
 
 Paper 1: Mechanical Properties of SFRC: Database Construction and Model Prediction
 
