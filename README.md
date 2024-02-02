@@ -6,4 +6,4 @@ Paper 2: Compressive strength and elastic modulus of RBAC: An analysis of existi
 
 Paper 3: Probabilistic models for characteristic bond stresses of steel-concrete in steel reinforced concrete structures
 
-Paper 4: Under review
+Paper 4: An Agile, Intelligent and Scalable Framework for Mix Design Optimization of Green Concrete Incorporating Recycled Aggregates from Precast Rejects (Under review)
