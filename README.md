@@ -11,3 +11,5 @@ Paper 4: An Agile, Intelligent and Scalable Framework for Mix Design Optimizatio
 Paper 5: Ensemble Machine Learning Models for Compressive Strength and Elastic Modulus of Recycled Brick Aggregate Concrete
 
 Paper 6: Predicting compressive strength of concrete at elevated temperatures and optimizing its mixture proportions
+
+Paper 7: A sophisticated computational approach for flexural strength prediction and mix proportion optimization of steel fiber-reinforced concrete (Under review)
